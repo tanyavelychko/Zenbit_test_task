@@ -1,0 +1,12 @@
+{
+  "name": "test_task_Zenbit",
+  "displayName": "test_task_Zenbit",
+  "expo": {
+    "name": "test_task_Zenbit",
+    "slug": "test_task_Zenbit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
